@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e1bd773d2b8dfd03ce48c5d0ea7287a2",
-    "content-hash": "bc981ee66aa90c7350f62eac6e1356c2",
+    "hash": "710618142ce102710f0e500445c3e547",
+    "content-hash": "8d08eaac14cda2dd1fbcac2aab05ad3a",
     "packages": [
         {
             "name": "composer/installers",
@@ -686,15 +686,15 @@
         },
         {
             "name": "wpackagist-plugin/woocommerce-customizer",
-            "version": "2.3.1",
+            "version": "2.4.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/woocommerce-customizer/",
-                "reference": "tags/2.3.1"
+                "reference": "tags/2.4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/woocommerce-customizer.2.3.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/woocommerce-customizer.2.4.0.zip",
                 "reference": null,
                 "shasum": null
             },
