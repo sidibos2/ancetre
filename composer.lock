@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b80dbe12f86e9c1aa9405ce5ac64a009",
-    "content-hash": "df3a23c08381a0ddc7b2201c0961130c",
+    "hash": "ca9f7e31b02ee8ca381dbea08b19f2b5",
+    "content-hash": "419a8b56f470f1de9456c78f9ed18095",
     "packages": [
         {
             "name": "composer/installers",
@@ -703,6 +703,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/woocommerce-customizer/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-rest-theme-mod-endpoint",
+            "version": "1.0.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-rest-theme-mod-endpoint/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-rest-theme-mod-endpoint.zip?timestamp=1470128599",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-rest-theme-mod-endpoint/"
         },
         {
             "name": "wpackagist-theme/storefront",

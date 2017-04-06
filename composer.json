@@ -28,7 +28,8 @@
     "wpackagist-plugin/storefront-homepage-extra-sections": "1.0.2",
     "wpackagist-plugin/homepage-control": "2.0.2",
     "wpackagist-plugin/woocommerce-customizer": "2.3.1",
-    "fancyguy/wordpress-monolog": "dev-master"
+    "fancyguy/wordpress-monolog": "dev-master",
+    "wpackagist-plugin/wp-rest-theme-mod-endpoint": "1.0.0"
   },
   "extra": {
     "wordpress-install-dir": "wp"
