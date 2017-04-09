@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "710618142ce102710f0e500445c3e547",
-    "content-hash": "8d08eaac14cda2dd1fbcac2aab05ad3a",
+    "hash": "5c29253cae1aab84a4232788ec15ad94",
+    "content-hash": "f8c9db9df64362bf8a7e1fdf052a1195",
     "packages": [
         {
             "name": "composer/installers",
@@ -443,6 +443,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/storefront-footer-bar/"
+        },
+        {
+            "name": "wpackagist-plugin/storefront-gridder",
+            "version": "1.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/storefront-gridder/",
+                "reference": "tags/1.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/storefront-gridder.1.0.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/storefront-gridder/"
         },
         {
             "name": "wpackagist-plugin/storefront-hamburger-menu",
