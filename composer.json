@@ -30,7 +30,8 @@
     "wpackagist-plugin/woocommerce-customizer": "2.4.0",
     "fancyguy/wordpress-monolog": "dev-master",
     "wpackagist-plugin/wp-rest-theme-mod-endpoint": "1.0.0",
-    "wpackagist-plugin/storefront-gridder": "1.0.1"
+    "wpackagist-plugin/storefront-gridder": "1.0.1",
+    "wpackagist-plugin/storefront-footer-text": "1.0.1"
   },
   "extra": {
     "wordpress-install-dir": "wp"

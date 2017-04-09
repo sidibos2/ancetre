@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5c29253cae1aab84a4232788ec15ad94",
-    "content-hash": "f8c9db9df64362bf8a7e1fdf052a1195",
+    "hash": "e837fee1fecb3e2a3afe95b9268aab77",
+    "content-hash": "2f4bbc814aae5b921a38b54c10701f85",
     "packages": [
         {
             "name": "composer/installers",
@@ -443,6 +443,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/storefront-footer-bar/"
+        },
+        {
+            "name": "wpackagist-plugin/storefront-footer-text",
+            "version": "1.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/storefront-footer-text/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/storefront-footer-text.zip?timestamp=1488815106",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/storefront-footer-text/"
         },
         {
             "name": "wpackagist-plugin/storefront-gridder",
